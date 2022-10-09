@@ -1,0 +1,15 @@
+//A1 Area of a Square 
+import java.util.Scanner;
+
+public class Main {
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		
+		System.out.println("Enter the side of a square:");
+		double s = sc.nextDouble();
+		
+		double area = s*s;
+		
+		System.out.println("the area of the square is: " + area);
+	}
+}
