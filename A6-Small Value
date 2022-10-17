@@ -3,10 +3,10 @@ public class Main {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		System.out.println("Enter the number of values to input : 4");
-		System.out.print("enter a integer:"); int n1 = sc.nextInt();
-		System.out.print("enter a integer:"); int n2 = sc.nextInt();
-		System.out.print("enter a integer:"); int n3 = sc.nextInt();
-		System.out.print("enter a integer:"); int n4 = sc.nextInt();
+		System.out.print("Enter a integer:"); int n1 = sc.nextInt();
+		System.out.print("Enter a integer:"); int n2 = sc.nextInt();
+		System.out.print("Enter a integer:"); int n3 = sc.nextInt();
+		System.out.print("Enter a integer:"); int n4 = sc.nextInt();
 		 
 		 int Small = n1;
 		 
